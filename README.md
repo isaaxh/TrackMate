@@ -1,4 +1,34 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# TrackMate - Your Ultimate Fitness Companion
+
+It is a comprehensive fitness app designed to be your ultimate workout companion.
+When I workout with my friend/gym coach he would give me a workout routine that I needed to do for the day and he would change part of this routine every few days. I always forget the little changes, so I built this app to help me in my fitness journey and I added few features to increase the value the app provides.
+
+## Tech Used:
+
+- React Native Expo
+- Typescript
+- Firebase
+- Tailwind CSS
+
+## Key Features:
+
+### Tracker: (MVP)
+
+- Set and monitor your fitness goals
+- Receive daily reminders
+- Use built in pomodoro timer during your workout sessions
+
+### Gym Bro Finder:
+
+- Match with like-minded individuals based on fitness goals and workout styles.
+- Connect with gym buddies, coordinate workout sessions, and share fitness tips.
+- Chat with your gym bros
+
+### Community Challenges:
+
+- Create and join fitness challenges to push your limits.
+- Earn points, rewards, and badges for consistent participation and achievements.
+- Climb the leaderboards and compare your progress with friends and community members.
 
 # Getting Started
 
